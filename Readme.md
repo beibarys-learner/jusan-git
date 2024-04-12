@@ -1,7 +1,7 @@
 # stepik-id-printer (h1)
 ___	
 Это проект для вывода моего пресонального идентификатора на *образовательной платформе* `stepik.org`.
-
+Script username.sh prints your name and surname.
 
 ## Возможности (h2)
 ___	
